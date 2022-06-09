@@ -1,0 +1,15 @@
+public static void main(String[] args) {
+    tring  n0,n1,n2,n3,n4;
+        int vetor [] = new int[5], cont=0;
+        Scanner sd = new Scanner(System.in);
+        while (cont<=5){
+            cont++;
+        n0= sd.nextLine();
+        n1= sd.nextLine();
+        n2= sd.nextLine();
+        n3= sd.nextLine();
+        n4= sd.nextLine();
+            System.out.println(n0+", "+n1+", "+n2+", "+n3+", "+n4);
+        }
+}
+
